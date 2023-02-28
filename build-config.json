@@ -1,0 +1,15 @@
+{
+  "source": ["libs/buoyant-theme/tokens/tokens.json"],
+  "platforms": {
+    "js": {
+      "transformGroup": "js",
+      "buildPath": "libs/buoyant-theme/build/",
+      "files": [
+        {
+          "destination": "tokens.ts",
+          "format": "javascript/objectCustom"
+        }
+      ]
+    }
+  }
+}

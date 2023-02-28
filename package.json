@@ -1,0 +1,14 @@
+{
+  "name": "bouyant-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "style-dictionary build",
+    "customBuild": "node ./libs/buoyant-theme/build.js"
+  },
+  "dependencies": {
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "^0.0.25"
+  }
+}
