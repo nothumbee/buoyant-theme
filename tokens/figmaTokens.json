@@ -105,6 +105,26 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "space": {
+      "md": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "15",
+        "type": "spacing"
+      }
+    },
+    "size": {
+      "sm": {
+        "value": "15",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "30",
+        "type": "sizing"
+      }
     }
   },
   "$themes": [],
